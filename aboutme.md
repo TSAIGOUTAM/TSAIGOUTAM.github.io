@@ -8,6 +8,7 @@ My name is Sai Goutam. I am an incoming MBA candidate at IIM Ahmedabad. Currentl
 
 - I rock a great mustache
 - I'm extremely loyal to my family
+- I like chicken
 
 What else do you need?
 
