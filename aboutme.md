@@ -4,7 +4,7 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Sai Goutam. I am an incoming MBA candidate at IIM Ahmedabad. Currently working as a Senior Research Scientist in Cryogenics Division at Indian Space Research Organisation.
 
 - I rock a great mustache
 - I'm extremely loyal to my family
